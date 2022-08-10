@@ -1,0 +1,15 @@
+---
+  - src: git@github.com:ivkpa/ansible-java-role.git
+    scm: git
+    version: "1.0.2"
+    name: java
+ 
+  - src: git@github.com:ivkpa/ansible-elastic-role.git
+    scm: git
+    version: "1.0.1"
+    name: elastic
+
+  - src: git@github.com:ivkpa/ansible-kibana-role.git
+    scm: git
+    version: "1.0.1"
+    name: kibana
